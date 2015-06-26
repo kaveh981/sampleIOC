@@ -227,6 +227,6 @@ C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Google
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.DataLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\obj\Debug\Mapi.csprojResolveAssemblyReference.cache
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\obj\Debug\Mapi.dll
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\obj\Debug\Mapi.pdb
-C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\obj\Debug\Mapi.csprojResolveAssemblyReference.cache

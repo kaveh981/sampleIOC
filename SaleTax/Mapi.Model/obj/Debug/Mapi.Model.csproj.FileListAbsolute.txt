@@ -27,5 +27,6 @@ C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\Newtonsoft.Json.dl
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\EntityFramework.xml
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.csprojResolveAssemblyReference.cache
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.dll
 C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.pdb
